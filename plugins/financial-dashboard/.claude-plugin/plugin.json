@@ -1,0 +1,24 @@
+{
+  "name": "financial-dashboard",
+  "description": "Build comprehensive financial performance dashboards for any public company using earnings reports, SEC filings (10-Q/10-K), and investor relations data. Outputs professional Excel (.xlsx) workbooks or interactive HTML dashboards for Chrome/browser — or both.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Bao Feng",
+    "email": "baofeng197@gmail.com"
+  },
+  "homepage": "https://github.com/baofeng-dong/financial-dashboard-skill",
+  "repository": "https://github.com/baofeng-dong/financial-dashboard-skill",
+  "license": "MIT",
+  "keywords": [
+    "finance",
+    "dashboard",
+    "earnings",
+    "SEC",
+    "revenue",
+    "quarterly",
+    "Excel",
+    "HTML",
+    "10-K",
+    "10-Q"
+  ]
+}

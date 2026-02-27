@@ -1,0 +1,40 @@
+{
+  "name": "baofeng-skills",
+  "owner": {
+    "name": "Bao Feng",
+    "email": "baofeng197@gmail.com"
+  },
+  "metadata": {
+    "description": "Financial performance dashboard skills for Claude — build professional Excel and interactive HTML dashboards from public company earnings data.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "financial-dashboard",
+      "source": "./plugins/financial-dashboard",
+      "description": "Build comprehensive financial performance dashboards (Excel + interactive HTML) for any public company using earnings reports, SEC filings (10-Q/10-K), and investor relations data.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Bao Feng",
+        "email": "baofeng197@gmail.com"
+      },
+      "homepage": "https://github.com/baofeng-dong/financial-dashboard-skill",
+      "repository": "https://github.com/baofeng-dong/financial-dashboard-skill",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "finance",
+        "dashboard",
+        "earnings",
+        "SEC",
+        "revenue",
+        "quarterly",
+        "Excel",
+        "HTML",
+        "10-K",
+        "10-Q",
+        "investor-relations"
+      ]
+    }
+  ]
+}
