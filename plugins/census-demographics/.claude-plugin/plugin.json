@@ -1,0 +1,26 @@
+{
+  "name": "census-demographics",
+  "description": "Download US Census demographic data and create choropleth maps for any US geography (state, county, tract). Visualize population density, income, education, housing, race/ethnicity, and more using Census ACS data with geopandas and matplotlib.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Baofeng Dong",
+    "email": "baofeng197@gmail.com"
+  },
+  "homepage": "https://github.com/baofeng-dong/census-demographics-skill",
+  "repository": "https://github.com/baofeng-dong/census-demographics-skill",
+  "license": "MIT",
+  "keywords": [
+    "census",
+    "demographics",
+    "map",
+    "population",
+    "choropleth",
+    "geopandas",
+    "ACS",
+    "income",
+    "education",
+    "housing",
+    "race",
+    "ethnicity"
+  ]
+}

@@ -5,8 +5,8 @@
     "email": "baofeng197@gmail.com"
   },
   "metadata": {
-    "description": "Financial performance dashboard skills for Claude — build professional Excel and interactive HTML dashboards from public company earnings data.",
-    "version": "1.0.0"
+    "description": "Skills for Claude — financial dashboards from earnings data, and Census demographic choropleth maps for any US geography.",
+    "version": "1.1.0"
   },
   "plugins": [
     {
@@ -34,6 +34,34 @@
         "10-K",
         "10-Q",
         "investor-relations"
+      ]
+    },
+    {
+      "name": "census-demographics",
+      "source": "./plugins/census-demographics",
+      "description": "Download US Census demographic data and create choropleth maps for any US geography (state, county, tract). Visualize population density, income, education, housing, race/ethnicity, and more.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Baofeng Dong",
+        "email": "baofeng197@gmail.com"
+      },
+      "homepage": "https://github.com/baofeng-dong/census-demographics-skill",
+      "repository": "https://github.com/baofeng-dong/census-demographics-skill",
+      "license": "MIT",
+      "category": "data-visualization",
+      "keywords": [
+        "census",
+        "demographics",
+        "map",
+        "population",
+        "choropleth",
+        "geopandas",
+        "ACS",
+        "income",
+        "education",
+        "housing",
+        "race",
+        "ethnicity"
       ]
     }
   ]
