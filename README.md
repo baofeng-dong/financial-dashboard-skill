@@ -1,8 +1,8 @@
 # 📊 Financial Dashboard Skill for Claude
 
-A Claude skill that builds **comprehensive financial performance dashboards** for any publicly
-traded company — sourced entirely from public earnings reports, SEC filings (10-Q / 10-K), and
-investor relations pages.
+![NVIDIA Financial Dashboard](assets/nvidia-dashboard.png)
+
+A Claude skill for building **professional financial performance dashboards** for any public company, powered by publicly available earnings data (IR press releases, SEC EDGAR, Yahoo Finance).
 
 ## What It Does
 
